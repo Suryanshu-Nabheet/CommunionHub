@@ -6,7 +6,6 @@ Welcome to **CommunionHub**, a React-powered web application designed to **bring
 ✅ A **dynamic event listing page** with filtering options  
 ✅ A **form to add new events** and enhance community participation  
 
-🔗 **Live Demo:** [Deploy on Vercel / Netlify](#)  
 📌 **Author:** [Suryanshu Nabheet](https://github.com/Suryanshu-Nabheet)  
 
 ---
@@ -20,8 +19,6 @@ Welcome to **CommunionHub**, a React-powered web application designed to **bring
 | **Tailwind CSS**  | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> |
 | **Framer Motion**  | <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" /> |
 | **React Router**  | <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" /> |
-| **Netlify / Vercel**  | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" /> |
-
 ---
 
 ## 📌 Features  
