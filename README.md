@@ -12,7 +12,7 @@ Welcome to **CommunionHub**, a React-powered web application designed to **bring
 
 ## 🎥 Demo Video  
 
-[![Watch the Demo](https://img.youtube.com/vi/_FAEeYHhPbI/maxresdefault.jpg)](https://www.youtube.com/watch?v=_FAEeYHhPbI)
+[![Watch the Demo](https://img.youtube.com/vi/mAehhGMpyvQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=mAehhGMpyvQ "Click to Play Video")
 
 
 
